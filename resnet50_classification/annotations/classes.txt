@@ -1,0 +1,10 @@
+0	concrete_crack
+1	steel_crack
+2	void
+3	spalling
+4	corrosion
+5	pothole
+6	honeycomb
+7	looseness
+8	efflorescence
+9	non_damage

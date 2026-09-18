@@ -1,0 +1,13 @@
+einops==0.8.0
+einops-exts==0.0.4
+transformers==4.41.1
+pillow==10.4.0
+open_clip_torch==2.24.0
+sentencepiece==0.2.0
+numpy==1.26.4
+huggingface-hub==0.23.4
+omegaconf==2.3.0
+peft==0.11.1
+tqdm==4.66.4
+wandb==0.22.3
+webdataset==0.2.86

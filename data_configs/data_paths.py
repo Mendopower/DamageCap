@@ -1,0 +1,1 @@
+IMAGE_FOLDER_DICT_GCP = {}
