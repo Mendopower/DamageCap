@@ -1,6 +1,0 @@
-numpy>=1.24
-Pillow>=9.5
-torch>=2.1
-torchvision>=0.16
-gdown>=5.2
-grad-cam==1.5.5
